@@ -12,8 +12,8 @@ body {
     ;
 }
 
-.header--sub-secondary{
-    color: #ffff;
+.header--secondary{
+    color: white;
     font-weight: 300;
     font-size: 42px;
 }
